@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6e99,50:1f8ac0,100:36bcf7&height=210&section=header&text=Raffaele%20Farro&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=58&descSize=20" alt="Raffaele Farro - QA Engineer, Test Automation" />
 
 <a href="https://github.com/raffaelefarro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Trovo+i+bug+prima+degli+utenti+%F0%9F%90%9B;Automatizzo+i+test+che+nessuno+vuole+rifare+a+mano+%E2%9A%99%EF%B8%8F;La+qualit%C3%A0+%C3%A8+un'abitudine%2C+non+una+fase+finale+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&height=45&lines=Trovo+i+bug+prima+degli+utenti+%F0%9F%90%9B;Automatizzo+i+test+che+nessuno+vuole+rifare+a+mano+%E2%9A%99%EF%B8%8F;La+qualit%C3%A0+%C3%A8+un'abitudine%2C+non+una+fase+finale+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
