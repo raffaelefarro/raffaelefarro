@@ -33,6 +33,14 @@ Un bug lo scrivo sempre in modo che chiunque lo possa riprodurre: passi, risulta
 
 ## Progetti
 
+**Test**
+
+- **[selenium-testng-saucedemo](https://github.com/raffaelefarro/selenium-testng-saucedemo)**: test automatici di un negozio online con Selenium, TestNG e Page Object, che girano su GitHub Actions
+- **[api-tests-restassured](https://github.com/raffaelefarro/api-tests-restassured)**: test di una API con REST Assured e JUnit 5
+- **[qa-test-documentation](https://github.com/raffaelefarro/qa-test-documentation)**: piano di test, casi di test e bug report
+
+**Sviluppo**
+
 - **[Presto.it](https://github.com/raffaelefarro/Presto.it)**: sito di annunci in Laravel con revisione e analisi delle foto. Progetto finale del bootcamp, fatto in gruppo
 - **[Spotify-Web-Template-Mobile-Friendly](https://github.com/raffaelefarro/Spotify-Web-Template-Mobile-Friendly)**: l'interfaccia di Spotify rifatta in HTML e CSS, anche per il telefono
 - **[Red-front-end-template](https://github.com/raffaelefarro/Red-front-end-template)**: landing page con Bootstrap e CSS scritto a mano
