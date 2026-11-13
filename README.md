@@ -11,59 +11,50 @@
 
 ---
 
-## Di cosa mi occupo
+## Chi sono
 
-Faccio il QA Engineer, cioè trovo i bug prima che li trovi un utente. Mi viene abbastanza bene perché prima di fare il tester ho scritto codice anch'io, e so dove di solito si rompe.
+Faccio il QA Engineer. Prima di fare il tester scrivevo codice, e forse per questo so abbastanza bene dove di solito si rompe.
 
-Nel lavoro di tutti i giorni scrivo e provo test case, a mano e in automatico (Java con JUnit e TestNG), apro e seguo i bug su Jira, controllo i dati con query SQL e faccio test di carico con JMeter. Lavoro anche con AWS: EC2, ECS, pipeline e DynamoDB. Vado alle call di pianificazione, discuto i requisiti con sviluppatori e demand e conduco le sessioni di UAT.
+Di giorno scrivo e provo test case, a mano e in Java (JUnit, TestNG), apro e seguo i bug su Jira, controllo i dati con SQL e faccio test di carico con JMeter. Lavoro su AWS (EC2, ECS, pipeline, DynamoDB), vado alle call di pianificazione, discuto i requisiti con sviluppatori e demand e conduco le sessioni di UAT.
 
-> "Un test che fallisce a caso è peggio di nessun test."
-
-Preferisco pochi test affidabili a tanti test fragili. E un bug lo scrivo sempre in modo che chiunque lo possa riprodurre: passi, risultato atteso, risultato ottenuto.
-
-## Perché qui c'è poco codice
-
-Quello che scrivo al lavoro sta sul GitHub dell'azienda e non lo posso mostrare. Quindi qui trovi i progetti di quando studiavo e quelli che faccio per conto mio. Se vuoi sapere come ragiono sui test, scrivimi e te lo racconto volentieri.
+Un bug lo scrivo sempre in modo che chiunque lo possa riprodurre: passi, risultato atteso, risultato ottenuto.
 
 ## Cosa uso
 
-**Test:** Java · JUnit · TestNG · Selenium · Playwright · Postman · JMeter · Xray  
-**Linguaggi:** Java · Python · JavaScript · PHP · SQL · C · HTML e CSS  
-**Cloud e strumenti:** AWS (EC2, ECS, pipeline, DynamoDB) · Jira · Confluence · ServiceNow · Git · GitHub Actions · Docker · Linux · IntelliJ IDEA  
-**Metodo:** Agile e Scrum
+- **Test:** Java, JUnit, TestNG, Selenium, Playwright, Postman, JMeter, Xray
+- **Linguaggi:** Java, Python, JavaScript, PHP, SQL, C, HTML e CSS
+- **Il resto:** AWS, Jira, Confluence, ServiceNow, Git, GitHub Actions, Docker, Linux, IntelliJ
 
-## Cosa sto facendo adesso
+## Adesso
 
-- Finisco la laurea magistrale in Sicurezza Informatica (LM-66)
-- Costruisco strumenti in Python che girano 24/7 su un server Linux con Docker
-- Scrivo più automazione dei test in Java
+- Finisco la magistrale in Sicurezza Informatica
+- Scrivo più automazione in Java
+- Tengo in piedi dei bot in Python che girano su un server Linux con Docker
 
 ## Progetti
 
-- **[Presto.it](https://github.com/raffaelefarro/Presto.it)** · sito di annunci in Laravel con revisione degli annunci e analisi delle foto. Progetto finale del bootcamp, fatto in gruppo
-- **[Spotify-Web-Template-Mobile-Friendly](https://github.com/raffaelefarro/Spotify-Web-Template-Mobile-Friendly)** · l'interfaccia di Spotify rifatta in HTML e CSS, pensata anche per il telefono
-- **[Red-front-end-template](https://github.com/raffaelefarro/Red-front-end-template)** · landing page con Bootstrap e CSS scritto a mano
+- **[Presto.it](https://github.com/raffaelefarro/Presto.it)**: sito di annunci in Laravel con revisione e analisi delle foto. Progetto finale del bootcamp, fatto in gruppo
+- **[Spotify-Web-Template-Mobile-Friendly](https://github.com/raffaelefarro/Spotify-Web-Template-Mobile-Friendly)**: l'interfaccia di Spotify rifatta in HTML e CSS, anche per il telefono
+- **[Red-front-end-template](https://github.com/raffaelefarro/Red-front-end-template)**: landing page con Bootstrap e CSS scritto a mano
 
 ## Studi
 
 - Laurea magistrale in Sicurezza Informatica (LM-66), in corso
 - Laurea triennale in Ingegneria Informatica (L-8)
-- Academy Testing Automation: Java, JUnit, TestNG, Jira, design dei test case
-- Web Developer Full Stack, Aulab Hackademy: front-end, back-end e programmazione a oggetti
+- Academy Testing Automation: Java, JUnit, TestNG, Jira
+- Web Developer Full Stack, Aulab Hackademy
 - Eipass: IT Security e Informatica Giuridica
 
 ---
 
 ## In English
 
-I'm Raffaele, a QA engineer from Italy. I break software for a living so that your users don't have to.
+I'm Raffaele, a QA engineer from Italy. I used to write code before I started testing it, so I usually know where it breaks.
 
-I started as a developer (a full-stack bootcamp with PHP and Laravel), and that's why I know where code likes to crack. Today I split my time between manual testing and test automation in Java, and I'm finishing a master's degree in Cybersecurity on the side.
+These days I split my time between manual testing and automation in Java, and I'm finishing a master's degree in Cybersecurity. My English isn't perfect, but it's good enough for a long chat about bugs.
 
-Most of my work lives on my company's GitHub, so you won't find it here. What you will find are my study projects. If you want to talk about testing, automation or security, write to me. My English isn't perfect, but it's good enough for a long chat about bugs.
+**Languages:** Italian (native), English (B1)
 
-**Languages:** Italian (native) · English (B1)
-
-## Scrivimi · Get in touch
+## Contatti · Contact
 
 [LinkedIn](https://www.linkedin.com/in/raffaelefarro/) · [raffaele.farro@proton.me](mailto:raffaele.farro@proton.me)
