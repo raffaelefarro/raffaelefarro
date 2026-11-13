@@ -10,7 +10,6 @@
 
 ![Ruolo](https://img.shields.io/badge/Ruolo-QA%20Automation%20Engineer-2c5364?style=for-the-badge)
 ![Paese](https://img.shields.io/badge/Paese-Italia-009246?style=for-the-badge)
-![Profilo](https://komarev.com/ghpvc/?username=raffaelefarro&label=Visite+al+profilo&color=36BCF7&style=for-the-badge)
 
 </div>
 
@@ -24,7 +23,7 @@ Vengo dallo sviluppo web (HTML, CSS, PHP, Laravel): conosco il codice dal lato d
 
 ## 🎯 Cosa faccio
 
-| | |
+| Area | Cosa significa |
 |---|---|
 | 🧪 **Test automation** | Suite end-to-end, API e regressione, stabili e manutenibili |
 | 🔁 **CI/CD** | Test eseguiti a ogni commit, report chiari, feedback in pochi minuti |
