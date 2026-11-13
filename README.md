@@ -32,10 +32,11 @@ Ho iniziato dallo sviluppo (bootcamp full-stack con HTML, CSS, PHP e Laravel): c
 | ✅ **UAT** | Sessioni di user acceptance test |
 | 🐞 **Gestione dei bug** | Li apro su Jira, li documento in modo riproducibile e verifico se si ripresentano |
 | 🔎 **Analisi del codice** | Leggo il codice degli sviluppatori per progettare i test e trovare la causa dei difetti |
+| 🗄️ **Database e SQL** | Query SQL per controllare i dati sul database e verificare che corrispondano a quanto atteso |
 | 🚀 **Carico e performance** | Test di carico e di performance con JMeter |
 | ☁️ **AWS** | EC2, ECS, pipeline e DynamoDB |
 | 🎫 **Servizi IT e ticketing** | Jira e ServiceNow, documentazione dei processi su Confluence |
-| 🔐 **Sicurezza informatica** | Studio di difesa dei sistemi, analisi delle minacce e gestione della sicurezza |
+| 🔐 **Sicurezza informatica** | Controllo delle vulnerabilità dei siti web a supporto dei test. Studio di difesa dei sistemi, analisi delle minacce e gestione della sicurezza |
 
 ## 🛠️ Stack
 
@@ -84,8 +85,8 @@ Ho iniziato dallo sviluppo (bootcamp full-stack con HTML, CSS, PHP e Laravel): c
 
 ## 🎓 Formazione
 
-- **Laurea magistrale in Sicurezza Informatica (LM-66)** · Università Mercatorum · in corso
-- **Laurea triennale in Ingegneria Informatica (L-8)** · Università Mercatorum
+- **Laurea magistrale in Sicurezza Informatica (LM-66)** · in corso
+- **Laurea triennale in Ingegneria Informatica (L-8)**
 - **Academy Testing Automation** · programmazione in Java, JUnit, TestNG, Jira, design dei test case
 - **Web Developer Full Stack** · Aulab Hackademy · front-end, back-end e programmazione a oggetti
 - **Eipass** · IT Security e Informatica Giuridica
