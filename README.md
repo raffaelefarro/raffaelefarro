@@ -18,7 +18,7 @@
 
 ## 👋 Chi sono
 
-Sono un **QA Engineer con formazione da Ingegnere Informatico**. Testo applicazioni web e mobile in contesti **Agile/Scrum**: progetto i test case, traccio le anomalie e lavoro per portare sempre più test in automazione (Java, JUnit, TestNG).
+Sono un **QA Engineer con formazione da Ingegnere Informatico**, a metà tra **tester manuale e tester di automazione**. Partecipo alle call di pianificazione, progetto e scrivo i test case, mi confronto con sviluppatori e demand per chiarire i requisiti, conduco sessioni di UAT, apro i bug e verifico se si ripresentano. Leggo il codice degli sviluppatori per progettare i test e capire perché qualcosa non funziona.
 
 Ho iniziato dallo sviluppo (bootcamp full-stack con HTML, CSS, PHP e Laravel): conosco il codice dal lato di chi lo scrive, ed è per questo che so dove tende a rompersi. Sto completando la **laurea magistrale in Sicurezza Informatica**.
 
@@ -26,10 +26,14 @@ Ho iniziato dallo sviluppo (bootcamp full-stack con HTML, CSS, PHP e Laravel): c
 
 | Area | Cosa significa |
 |---|---|
-| 🧪 **Test funzionali** | Sanity, smoke e regressione su applicazioni web e mobile |
-| ⚙️ **Test automation** | Suite in Java con JUnit e TestNG, stabili e manutenibili |
-| 🧭 **Progettazione dei test** | Analisi dei requisiti e delle story, test case chiari, tracciabilità con Xray |
-| 🐞 **Gestione delle anomalie** | Bug riproducibili e ben documentati, tracciati su Jira |
+| 🧪 **Test manuali e design** | Progetto e scrivo i test case a partire da requisiti, story e codice. Sanity, smoke e regressione su web e mobile |
+| ⚙️ **Test automation** | Suite in Java con JUnit e TestNG |
+| 🤝 **Collaborazione** | Call di pianificazione e confronto con sviluppatori e demand per chiarire i requisiti |
+| ✅ **UAT** | Sessioni di user acceptance test |
+| 🐞 **Gestione dei bug** | Li apro su Jira, li documento in modo riproducibile e verifico se si ripresentano |
+| 🔎 **Analisi del codice** | Leggo il codice degli sviluppatori per progettare i test e trovare la causa dei difetti |
+| 🚀 **Carico e performance** | Test di carico e di performance con JMeter |
+| ☁️ **AWS** | EC2, ECS, pipeline e DynamoDB |
 | 🎫 **Servizi IT e ticketing** | Jira e ServiceNow, documentazione dei processi su Confluence |
 | 🔐 **Sicurezza informatica** | Studio di difesa dei sistemi, analisi delle minacce e gestione della sicurezza |
 
@@ -44,6 +48,7 @@ Ho iniziato dallo sviluppo (bootcamp full-stack con HTML, CSS, PHP e Laravel): c
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 **Linguaggi**
 
@@ -56,12 +61,20 @@ Ho iniziato dallo sviluppo (bootcamp full-stack con HTML, CSS, PHP e Laravel): c
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Cloud (AWS)**
+
+![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square)
+![ECS](https://img.shields.io/badge/AWS-ECS-FF9900?style=flat-square)
+![Pipeline](https://img.shields.io/badge/AWS-Pipeline-FF9900?style=flat-square)
+![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square)
+
 **Strumenti e metodo**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
